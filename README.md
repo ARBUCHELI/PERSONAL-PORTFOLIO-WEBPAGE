@@ -3,9 +3,13 @@
 Web Application based on Graphic Design that implements responsive use of images, HTML, responsive CSS and responsive web design.
 The following images show how the application works:
 
-![CLICK IN THE HAMBURGUER MENU]()
+![1](https://raw.githubusercontent.com/ARBUCHELI/PERSONAL-PORTFOLIO-WEBPAGE/master/1.jpg)
 
-![RESPONSIVE WEBSITE]()
+![2](https://raw.githubusercontent.com/ARBUCHELI/PERSONAL-PORTFOLIO-WEBPAGE/master/2.jpg)
+
+![3](https://github.com/ARBUCHELI/PERSONAL-PORTFOLIO-WEBPAGE/blob/master/3.jpg)
+
+![4](https://raw.githubusercontent.com/ARBUCHELI/PERSONAL-PORTFOLIO-WEBPAGE/master/4.jpg)
 
 <strong>INSTRUCTIONS</strong>
 
